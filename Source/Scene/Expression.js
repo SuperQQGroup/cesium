@@ -1,5 +1,5 @@
 import Cartesian2 from '../Core/Cartesian2.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import Cartesian4 from '../Core/Cartesian4.js';
 import Check from '../Core/Check.js';
 import Color from '../Core/Color.js';

@@ -1,6 +1,6 @@
 import BoundingSphere from './BoundingSphere.js';
 import Cartesian2 from './Cartesian2.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Check from './Check.js';
 import defaultValue from './defaultValue.js';
 import defined from './defined.js';

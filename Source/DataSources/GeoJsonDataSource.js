@@ -1,5 +1,5 @@
 import ArcType from '../Core/ArcType.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import Color from '../Core/Color.js';
 import createGuid from '../Core/createGuid.js';
 import Credit from '../Core/Credit.js';

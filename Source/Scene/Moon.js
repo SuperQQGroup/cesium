@@ -1,5 +1,5 @@
 import buildModuleUrl from '../Core/buildModuleUrl.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import defaultValue from '../Core/defaultValue.js';
 import defined from '../Core/defined.js';
 import destroyObject from '../Core/destroyObject.js';

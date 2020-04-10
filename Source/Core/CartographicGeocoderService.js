@@ -1,5 +1,5 @@
 import when from '../ThirdParty/when.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Check from './Check.js';
 
     /**

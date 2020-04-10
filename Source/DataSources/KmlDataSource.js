@@ -2,7 +2,7 @@ import ArcType from '../Core/ArcType.js';
 import AssociativeArray from '../Core/AssociativeArray.js';
 import BoundingRectangle from '../Core/BoundingRectangle.js';
 import Cartesian2 from '../Core/Cartesian2.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import Cartographic from '../Core/Cartographic.js';
 import ClockRange from '../Core/ClockRange.js';
 import ClockStep from '../Core/ClockStep.js';

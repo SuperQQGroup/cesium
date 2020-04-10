@@ -1,5 +1,5 @@
 import BoundingSphere from './BoundingSphere.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Cartesian4 from './Cartesian4.js';
 import Check from './Check.js';
 import ComponentDatatype from './ComponentDatatype.js';

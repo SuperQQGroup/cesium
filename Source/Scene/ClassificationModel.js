@@ -1,6 +1,6 @@
 import arraySlice from '../Core/arraySlice.js';
 import BoundingSphere from '../Core/BoundingSphere.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import Cartesian4 from '../Core/Cartesian4.js';
 import Color from '../Core/Color.js';
 import combine from '../Core/combine.js';

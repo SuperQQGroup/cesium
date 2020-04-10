@@ -1,4 +1,4 @@
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Cartographic from './Cartographic.js';
 import defaultValue from './defaultValue.js';
 import defined from './defined.js';

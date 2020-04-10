@@ -1,6 +1,6 @@
 import ArcType from './ArcType.js';
 import BoundingSphere from './BoundingSphere.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Color from './Color.js';
 import ComponentDatatype from './ComponentDatatype.js';
 import defaultValue from './defaultValue.js';

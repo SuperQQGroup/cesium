@@ -1,4 +1,4 @@
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import defined from './defined.js';
 import Iau2000Orientation from './Iau2000Orientation.js';
 import JulianDate from './JulianDate.js';

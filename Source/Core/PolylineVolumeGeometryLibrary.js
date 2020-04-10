@@ -1,5 +1,5 @@
 import Cartesian2 from './Cartesian2.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Cartesian4 from './Cartesian4.js';
 import Cartographic from './Cartographic.js';
 import CornerType from './CornerType.js';

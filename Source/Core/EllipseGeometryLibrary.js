@@ -1,4 +1,4 @@
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import CesiumMath from './Math.js';
 import Matrix3 from './Matrix3.js';
 import Quaternion from './Quaternion.js';

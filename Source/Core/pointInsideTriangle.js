@@ -1,5 +1,5 @@
 import barycentricCoordinates from './barycentricCoordinates.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 
     var coords = new Cartesian3();
 

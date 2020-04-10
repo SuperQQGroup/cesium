@@ -2,7 +2,7 @@ import arrayRemoveDuplicates from './arrayRemoveDuplicates.js';
 import BoundingRectangle from './BoundingRectangle.js';
 import BoundingSphere from './BoundingSphere.js';
 import Cartesian2 from './Cartesian2.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import ComponentDatatype from './ComponentDatatype.js';
 import CornerType from './CornerType.js';
 import defaultValue from './defaultValue.js';

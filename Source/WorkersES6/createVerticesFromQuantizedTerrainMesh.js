@@ -2,7 +2,7 @@ import AttributeCompression from '../Core/AttributeCompression.js';
 import AxisAlignedBoundingBox from '../Core/AxisAlignedBoundingBox.js';
 import BoundingSphere from '../Core/BoundingSphere.js';
 import Cartesian2 from '../Core/Cartesian2.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import Cartographic from '../Core/Cartographic.js';
 import defined from '../Core/defined.js';
 import Ellipsoid from '../Core/Ellipsoid.js';

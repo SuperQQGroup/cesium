@@ -1,6 +1,6 @@
 import BoundingSphere from '../Core/BoundingSphere.js';
 import BoxOutlineGeometry from '../Core/BoxOutlineGeometry.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import Check from '../Core/Check.js';
 import ColorGeometryInstanceAttribute from '../Core/ColorGeometryInstanceAttribute.js';
 import GeometryInstance from '../Core/GeometryInstance.js';

@@ -1,6 +1,6 @@
 import arrayRemoveDuplicates from '../Core/arrayRemoveDuplicates.js';
 import BoundingSphere from '../Core/BoundingSphere.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import Color from '../Core/Color.js';
 import defaultValue from '../Core/defaultValue.js';
 import defined from '../Core/defined.js';

@@ -31,8 +31,8 @@ describe('Core/buildModuleUrl', function() {
         buildModuleUrl._clearBaseResource();
 
         // Verify we use CESIUM_BASE_URL
-        var url = buildModuleUrl._buildModuleUrlFromBaseUrl('Core/Cartesian3.js');
-        expect(url).toEqual('http://test.com/source/Core/Cartesian3.js');
+        var url = buildModuleUrl._buildModuleUrlFromBaseUrl('Core/Cartesian3');
+        expect(url).toEqual('http://test.com/source/Core/Cartesian3');
 
         // Reset old values
         window.CESIUM_BASE_URL = oldCESIUM_BASE_URL;
@@ -46,8 +46,8 @@ describe('Core/buildModuleUrl', function() {
         buildModuleUrl._clearBaseResource();
 
         // Verify we use CESIUM_BASE_URL
-        var url = buildModuleUrl._buildModuleUrlFromBaseUrl('Core/Cartesian3.js');
-        expect(url).toEqual('http://test.com/source/Core/Cartesian3.js');
+        var url = buildModuleUrl._buildModuleUrlFromBaseUrl('Core/Cartesian3');
+        expect(url).toEqual('http://test.com/source/Core/Cartesian3');
 
         // Reset old values
         window.CESIUM_BASE_URL = oldCESIUM_BASE_URL;

@@ -3,7 +3,7 @@ import arrayFill from './arrayFill.js';
 import BoundingRectangle from './BoundingRectangle.js';
 import BoundingSphere from './BoundingSphere.js';
 import Cartesian2 from './Cartesian2.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Cartographic from './Cartographic.js';
 import Check from './Check.js';
 import ComponentDatatype from './ComponentDatatype.js';

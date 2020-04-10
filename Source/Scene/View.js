@@ -1,5 +1,5 @@
 import BoundingRectangle from '../Core/BoundingRectangle.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import CullingVolume from '../Core/CullingVolume.js';
 import defined from '../Core/defined.js';
 import getTimestamp from '../Core/getTimestamp.js';

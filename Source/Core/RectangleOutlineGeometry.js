@@ -1,6 +1,6 @@
 import arrayFill from './arrayFill.js';
 import BoundingSphere from './BoundingSphere.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Cartographic from './Cartographic.js';
 import ComponentDatatype from './ComponentDatatype.js';
 import defaultValue from './defaultValue.js';

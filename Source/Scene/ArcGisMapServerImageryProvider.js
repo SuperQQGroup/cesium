@@ -1,5 +1,5 @@
 import Cartesian2 from '../Core/Cartesian2.js';
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import Cartographic from '../Core/Cartographic.js';
 import Credit from '../Core/Credit.js';
 import defaultValue from '../Core/defaultValue.js';

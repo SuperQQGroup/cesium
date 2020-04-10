@@ -1,5 +1,5 @@
 import Cartesian2 from './Cartesian2.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Check from './Check.js';
 import defined from './defined.js';
 import CesiumMath from './Math.js';

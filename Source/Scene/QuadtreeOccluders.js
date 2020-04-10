@@ -1,4 +1,4 @@
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import EllipsoidalOccluder from '../Core/EllipsoidalOccluder.js';
 
     /**

@@ -1,4 +1,4 @@
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import Matrix4 from '../Core/Matrix4.js';
 import WebGLConstants from '../Core/WebGLConstants.js';
 

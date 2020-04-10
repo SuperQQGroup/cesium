@@ -1,4 +1,4 @@
-import Cartesian3 from '../Core/Cartesian3.js';
+import Cartesian3 from '../Core/Cartesian3';
 import defined from '../Core/defined.js';
 import DeveloperError from '../Core/DeveloperError.js';
 import Matrix3 from '../Core/Matrix3.js';

@@ -1,6 +1,6 @@
 import AxisAlignedBoundingBox from './AxisAlignedBoundingBox.js';
 import Cartesian2 from './Cartesian2.js';
-import Cartesian3 from './Cartesian3.js';
+import Cartesian3 from './Cartesian3';
 import Cartesian4 from './Cartesian4.js';
 import Check from './Check.js';
 import defaultValue from './defaultValue.js';
