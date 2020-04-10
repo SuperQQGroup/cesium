@@ -7,44 +7,38 @@ import Spherical from './Spherical';
 
     /**
      * A 3D Cartesian point.
-     * @alias Cartesian3
      *
      * @see Cartesian2
      * @see Cartesian4
      * @see Packable
      */
     class Cartesian3 {
+        /**
+         * The X component.
+         * @default 0.0
+         */
         x: number;
+
+        /**
+         * The Y component.
+         * @default 0.0
+         */
         y: number;
+
+        /**
+         * The Z component.
+         * @default 0.0
+         */
         z: number;
 
         /**
-         * @constructor
-         *
-         * @param {Number} [x=0.0] The X component.
-         * @param {Number} [y=0.0] The Y component.
-         * @param {Number} [z=0.0] The Z component.
+         * @param x The X component.
+         * @param y The Y component.
+         * @param z The Z component.
          */
         constructor(x = 0, y = 0, z = 0){
-            /**
-             * The X component.
-             * @type {Number}
-             * @default 0.0
-             */
             this.x = x;
-
-            /**
-             * The Y component.
-             * @type {Number}
-             * @default 0.0
-             */
             this.y = y;
-
-            /**
-             * The Z component.
-             * @type {Number}
-             * @default 0.0
-             */
             this.z = z;
         }
 

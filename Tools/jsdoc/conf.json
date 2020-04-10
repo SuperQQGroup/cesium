@@ -1,14 +1,14 @@
 {
     "tags": {
-        "allowUnknownTags": false
+        "allowUnknownTags": true
     },
     "source": {
-        "include": ["Build/TypeScript"],
-        "exclude": ["Build/TypeScript/ThirdParty", "Build/TypeScript/Workers"],
-        "includePattern": ".+\\.js(doc)?$",
+        "include": ["Source"],
+        "exclude": ["Source/ThirdParty", "Source/Workers"],
+        "includePattern": ".+\\.(ts|js)(doc)?$",
         "excludePattern": "(^|\\/|\\\\)_"
     },
-    "plugins": ["./Tools/jsdoc/cesiumTags"],
+    "plugins": ["node_modules/better-docs/typescript", "./Tools/jsdoc/cesiumTags"],
     "templates": {
         "cleverLinks": true,
         "default": {
@@ -18,7 +18,7 @@
     },
     "opts": {
         "destination": "Build/Documentation",
-        "template": "./Tools/jsdoc/cesium_template",
+        "template": "node_modules/better-docs",
         "recurse": true
     }
 }
